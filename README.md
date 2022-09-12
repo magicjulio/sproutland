@@ -15,13 +15,13 @@ Sproutland in Pygame
 Use arrow keys to move</p>
 use "s" key to swicht tool</p>
 use "e" tool to swicht seed</p>
-use space to use a tool
-use ctrl + arrow_key to plant a seed
-use Enter to trade with trader
+use space to use a tool </p>
+use ctrl + arrow_key to plant a seed</p>
+use Enter to trade with trader</p>
 
 
-special key <strong>m</strong>!!!
-find it out yourself
+special key <strong>m</strong>!!!</p>
+find it out yourself</p>
 </p>
 
 
