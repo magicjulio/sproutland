@@ -11,15 +11,18 @@ Sproutland in Pygame
 <li>pytmx</li>
 
 <h2>How to play & Feauters</h2>
-Use arrow keys to move
-use "s" key to swicht tool
-use "e" tool to swicht seed
+<p>
+Use arrow keys to move</p>
+use "s" key to swicht tool</p>
+use "e" tool to swicht seed</p>
 use space to use a tool
 use ctrl + arrow_key to plant a seed
 use Enter to trade with trader
 
+
 special key <strong>m</strong>!!!
 find it out yourself
+</p>
 
 
 <h2>Credits</h2>
